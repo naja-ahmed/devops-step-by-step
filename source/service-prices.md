@@ -16,8 +16,8 @@ It includes attending live sessions with the ability to watch recorded sessions 
 
 **Mentoring Service subscription fees**
 
-- Cost of the annual subscription is $326 annually, which is $28/month.
-- Cost of the annual subscription for the members who have previously enrolled in the course in any batch is $84 annually, which is $7/month.
+- exclusive for the members who have previously enrolled in the course in any batch
+- Cost of the annual subscription is $84 annually, which is $7/month.
 - Annual subscription is paid once a year at the beginning of the subscription.
 - Joining fees of the program is $320, to be paid once.
 - Course members are exempted from joining fees if they join immediately after the course (the grace period is only one week after the course).
