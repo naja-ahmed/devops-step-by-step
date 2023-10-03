@@ -100,6 +100,7 @@ https://www.linkedin.com/in/mhshahin/
  ### <br/>
  # The Mentor Meetup
 ### - It will be on 04-10-2023 at 9:00 PM Cairo time.
+### - We will do the rehearse today at 5:00 PM Cairo time.
 
  ### <br/>
  #  The Secret to Success with Michael Blumenthal and Mohamed Radwan
