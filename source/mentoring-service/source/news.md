@@ -11,7 +11,7 @@
     - [Ask Me Anything & Management](#ask-me-anything--management)
     - [Mentor Meetup #2](#mentor-meetup-2)
     - [Secret to Success with Michael Blumenthal & Mohamed Radwan](#secret-to-success-with-michael-blumenthal--mohamed-radwan)
-    - [Group Therapy](#group-therapy)
+    - [Group Therapy #2](#group-therapy-2)
     - [Annual Calendar](#annual-calendar)
     - [DevOps Course License Update](#devops-course-license-update)
     - [Mentor and Course Update Pricing](#mentor-and-course-update-pricing)
@@ -31,7 +31,7 @@
     - [Random Casual Online Mentor Meetup](#random-casual-online-mentor-meetup)
     - [Joining New Members](#joining-new-members)
     - [Private Youtube Videos](#private-youtube-videos)
-    - [Group Therapy ](#group-therapy )
+    - [Group Therapy #1](#group-therapy-1)
     - [Communication Skills Session Part 2](#communication-skills-session-part-2)
     - [Post Mortem after Communication Skills Session Part 2](#post-mortem-after-communication-skills-session-part-2)
     - [DevOps Sessions Securely Deploying Apps with Azure AD and Terraform](#devops-sessions-securely-deploying-apps-with-azure-ad-and-terraform)
@@ -151,7 +151,7 @@
 - **Topic:** Explore the "Secret to Success" [Michael Blumenthal](events-speakers.md#michael-blumenthal) and [Mohamed Radwan](events-speakers.md#mohamed-radwan).
 
 
-## Group Therapy
+## Group Therapy #2
 
 - **Date and Time:** Nov 08, 2023, at 7:00 PM UK Time.
 
@@ -316,7 +316,7 @@
 
 <br>
 
-# Group Therapy
+# Group Therapy #1
 ### - It was on 21-06-2023 at 9:00 PM Cairo time and the next one will be in December.
 ### - The number of attendees was more than 30. 
 ### - Discuss 5 work challenges for mentor members.
