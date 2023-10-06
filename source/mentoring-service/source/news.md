@@ -220,8 +220,7 @@
 - [Private Calendar "needs to login to KB (Q&A)"](https://devopsvisionsqa.mohamedradwan.com/?qa=780/what-is-the-annual-calendar-for-the-mentor-activities&show=780#q780) 
 <br>
 
-[⬆ back to top](#news)<br>
-[⬆ back to News #1](#all-news-before-meetup-1-july-2023)
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
 # Mentor Meetup #1
@@ -231,32 +230,28 @@
 - [Agenda](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mentoring-service/source/agenda.md#mentor-meetup) 
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
 # Qaderoon initiative
 ### - Eng. Mohamed Radwan joined the “Qaderoon” initiative, which is an Egyptian initiative to rehabilitate and develop youth with the support of the Ministry of Social Solidarity, and it was agreed on joint cooperation.
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
 # Open the Discussion on the Inner-source
 ### - The discussion was opened on the inner source to allow members to discuss various topics.
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
 # Move the Profile From the Q/A to the Inner Source
 ### - We have moved user profiles from our KB (Q&A) to a private repo (inner-source), and since this is a private repo, no one public can access it without adding them first.
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
 # The Group Advisory
@@ -264,8 +259,7 @@
 ### - 12 members subscribed as a group advisory.
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
 # Discounts
@@ -275,16 +269,14 @@
 ### - They complete their profile for the user profile at the private repo before the end of May 2023.
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
 # The Secret to Success
 ### - The Secret to Success with MVPs [Anthony Mashford](events-speakers.md#anthony-mashford)  & [Mohamed Radwan](events-speakers.md#mohamed-radwan) was on 11-07-2023 at 8:00 PM Cairo Time.
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
 # Random Casual Online Mentor Meetup
@@ -292,8 +284,7 @@
 ### - The number of attendees is 10 members.
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
 # Joining New Members
@@ -304,16 +295,14 @@
 ### - A Technical manager with 17 years of experience in Egypt.
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
 # Private Youtube Videos
 ### - Private YouTube videos will be deleted at the end of September 2023 and they will be limited paid service.
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
 # Group Therapy #1
@@ -323,8 +312,7 @@
 ### - Discuss performance improvement topics.
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
 # Communication Skills Session Part 2
@@ -341,16 +329,14 @@ https://www.linkedin.com/in/mhshahin/
 https://www.youtube.com/watch?v=LNmBb1Yrdko
 <br><br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
 # Post Mortem After Communication Skills Session Part 2
 ### - After the Communication Skills Session there was a post-mortem to discuss the session to extract the lesson learned and avoid repetition problems in the following sessions.
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
 # DevOps Sessions Securely Deploying Apps with Azure AD and Terraform
@@ -361,8 +347,7 @@ https://www.linkedin.com/in/abdelhalimzaki/
 https://www.youtube.com/watch?v=s88vCcoEI5Y
 <br><br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
 # Mentor Private one - one Session Details
@@ -372,8 +357,7 @@ https://www.youtube.com/watch?v=s88vCcoEI5Y
 ### - The best way to book private sessions is to book sessions on an annual basis, with a rate of 3 sessions to a maximum of 6 sessions per year, according to the person's experience, and this will be an advantage for him.
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
 # Cloud Migration Project
@@ -383,8 +367,7 @@ https://www.youtube.com/watch?v=s88vCcoEI5Y
 ### - It will be a Cloud Migration training project for mentor members. 
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
 # Induction and Onboarding Session for The Mentor Program
@@ -392,8 +375,7 @@ https://www.youtube.com/watch?v=s88vCcoEI5Y
 ### - This is the meeting of the induction and onboarding session for the new members of the Mentor program.
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
 # Gathering
@@ -411,8 +393,7 @@ https://www.youtube.com/watch?v=s88vCcoEI5Y
 ## Virtual Gathering on 18-03-2023 from 12:00 PM to 07:00 PM Cairo time
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
 # Public Google form for questions
@@ -421,8 +402,7 @@ https://www.youtube.com/watch?v=s88vCcoEI5Y
 https://forms.gle/kkMBZGD1hWWPWq349
 <br><br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
 # Communication Skills Session Part 1
@@ -442,8 +422,7 @@ https://www.linkedin.com/in/mohamedahmedradwan/
 https://www.youtube.com/watch?v=Ll6j1_9DuWc
 <br><br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
 # Members Celebration
@@ -455,4 +434,5 @@ https://www.youtube.com/watch?v=Ll6j1_9DuWc
 ### - Joining New Members.
 <br>
 
-[⬆ back to top](#news)
+**[⬆ back to top](#news)**
+
