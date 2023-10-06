@@ -189,13 +189,15 @@
 - Groups can be formed either online or in person, and NDA rights are taken into account before the group is created.
 
 
-# The New Platform
+## The New Platform
 
-- It is now possible for the Mentor's members to register on the new platform using the following link:
+**Date and Time:** Oct 11, 2023, at 7:00 PM UK Time.
 
-  [Platform](https://learn.mohamedradwan.com/) 
+- **Topic:** Discover Our New Exciting Platform.
 
+- It is now possible for the Mentor's members to register on the new platform.
 
+ 
 ## New Member Onboarding
 
 - For our new members, the onboarding process will span 3 months. We've divided the year into 4 quarters to align with their joining dates:
