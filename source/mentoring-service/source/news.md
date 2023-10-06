@@ -15,7 +15,7 @@
     - [DevOps Course License Update](#devops-course-license-update)
     - [Mentor and Course Update Pricing](#mentor-and-course-update-pricing)
     - [Discord Events](#discord-events)
-    - [NDA Right](#nda-right)
+    - [NDA Rights](#nda-rights)
     - [Group Advisory Updates](#group-advisory-updates)
     - [The New Platform](#the-new-platform)
     - [New Member Onboarding](#new-member-onboarding)
@@ -181,7 +181,7 @@
 - We're now using Discord's Event feature for all our events, and the old meeting channels are no longer in use.
 
 
-## NDA Right
+## NDA Rights
 
 - Groups can be formed either online or in person, and NDA rights are taken into account before the group is created.
 
