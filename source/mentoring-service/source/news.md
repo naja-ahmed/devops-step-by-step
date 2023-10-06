@@ -213,105 +213,106 @@
 
 
 
-# The First Meetup News
-# Annual Activities
-### - There are 24 activities/year. 
-### -  There are 2 activities/month.
-### - There is a public calendar starting from May 2023 to May 2024, You can find this calendar at the following link:
-- [Public Calendar](https://calendar.google.com/calendar/u/0?cid=YTE5NjZmM2NmZjhjNTUzYzBhYmMzODhmZWQxYzdjNzFhZTdkNzcwODc1NDQ2ZjkyYTFkYjRiODRmNGFmNDM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
-- [Private Calendar "needs to login to KB (Q&A)"](https://devopsvisionsqa.mohamedradwan.com/?qa=780/what-is-the-annual-calendar-for-the-mentor-activities&show=780#q780) 
+# All News Before Meetup #1 July 2023
+## Annual Activities
+- There are 24 activities/year.
+-  There are 2 activities/month.
+-  There is a public calendar starting from May 2023 to May 2024, You can find this calendar at the following links:
+    - [Public Calendar](https://calendar.google.com/calendar/u/0?cid=YTE5NjZmM2NmZjhjNTUzYzBhYmMzODhmZWQxYzdjNzFhZTdkNzcwODc1NDQ2ZjkyYTFkYjRiODRmNGFmNDM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
+    - [Private Calendar "needs to login to KB (Q&A)"](https://devopsvisionsqa.mohamedradwan.com/?qa=780/what-is-the-annual-calendar-for-the-mentor-activities&show=780#q780) 
 <br>
 
 **[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
-# Mentor Meetup #1
-### - This is the first mentor meetup.
-### - It will be on 18-07-2023 at 8:00 PM Cairo Time and the next one will be in October.
-### - You Can find the meeting agenda at the Following Link:
-- [Agenda](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mentoring-service/source/agenda.md#mentor-meetup) 
+## Mentor Meetup #1
+- **Date and Time:** JUL 18, 2023, at 6:00 PM UK Time.
+- This is the first mentor meetup.
+- the next one will be in October.
+- You Can find the meeting agenda at the Following Link: [Agenda](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mentoring-service/source/agenda.md#mentor-meetup) 
 <br>
 
 **[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
-# Qaderoon initiative
-### - Eng. Mohamed Radwan joined the “Qaderoon” initiative, which is an Egyptian initiative to rehabilitate and develop youth with the support of the Ministry of Social Solidarity, and it was agreed on joint cooperation.
+## Qaderoon initiative
+- Eng. Mohamed Radwan joined the “Qaderoon” initiative, which is an Egyptian initiative to rehabilitate and develop youth with the support of the Ministry of Social Solidarity, and it was agreed on joint cooperation.
 <br>
 
 **[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
-# Open the Discussion on the Inner-source
-### - The discussion was opened on the inner source to allow members to discuss various topics.
-<br>
-
-**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
-<br>
-   
-# Move the Profile From the Q/A to the Inner Source
-### - We have moved user profiles from our KB (Q&A) to a private repo (inner-source), and since this is a private repo, no one public can access it without adding them first.
-<br>
-
-**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
-<br>
-
-# The Group Advisory
-### - A group advisory meeting will be on 19-07-2023 at 8:30 PM Cairo Time .
-### - 12 members subscribed as a group advisory.
+## Open the Discussion on the Inner-source
+- The discussion was opened on the inner source to allow members to discuss various topics.
 <br>
 
 **[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
-# Discounts
-## Members will be given a discount on the renewal fees for the mentor program (in December) in case of:
-### - They participate as a group advisory.
-### - They join the private repo before the end of May 2023.
-### - They complete their profile for the user profile at the private repo before the end of May 2023.
+## Move the Profile From the Q/A to the Inner Source
+- We have moved user profiles from our KB (Q&A) to a private repo (inner-source), and since this is a private repo, no one public can access it without adding them first.
 <br>
 
 **[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
-# The Secret to Success
-### - The Secret to Success with MVPs [Anthony Mashford](events-speakers.md#anthony-mashford)  & [Mohamed Radwan](events-speakers.md#mohamed-radwan) was on 11-07-2023 at 8:00 PM Cairo Time.
-<br>
-
-**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
-<br>
-   
-# Random Casual Online Mentor Meetup
-### - As one of the mentor activities there is a random online meetup the first one was done on 01-07-2023 at 1:00 PM Cairo time. 
-### - The number of attendees is 10 members.
-<br>
-
-**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
-<br>
-
-# Joining New Members
-## Special Members Joining Like:
-### - An Associate Professor of Electrical and Computer Engineering with 20 years of experience at  the University, of Florida, USA.
-### - A Senior Architect with 13 years of experience at Microsoft Ireland.
-### - An AI Researcher in Egypt, Computational linguist, and NLP engineer in Egypt.
-### - A Technical manager with 17 years of experience in Egypt.
+## The Group Advisory
+- **Date and Time:** JUL 19, 2023, at 6:30 PM UK Time.
+- 12 members subscribed as a group advisory.
 <br>
 
 **[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
-# Private Youtube Videos
-### - Private YouTube videos will be deleted at the end of September 2023 and they will be limited paid service.
+## Discounts
+- Members will be given a discount on the renewal fees for the mentor program (in December) in case of:
+    - They participate as a group advisory.
+    - They join the private repo before the end of May 2023.
+    - They complete their profile for the user profile at the private repo before the end of May 2023.
 <br>
 
 **[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
-# Group Therapy #1
-### - It was on 21-06-2023 at 9:00 PM Cairo time and the next one will be in December.
-### - The number of attendees was more than 30. 
-### - Discuss 5 work challenges for mentor members.
-### - Discuss performance improvement topics.
+## The Secret to Success
+- **Date and Time:** Jul 11, 2023, at 6:00 PM UK Time.
+- **Topic:** Explore the "Secret to Success" [Anthony Mashford](events-speakers.md#anthony-mashford) & [Mohamed Radwan](events-speakers.md#mohamed-radwan).
+<br>
+
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
+<br>
+   
+## Random Casual Online Mentor Meetup
+- **Date and Time:** Jul 01, 2023, at 11:00 AM UK Time.
+- The number of attendees was 10 members.
+<br>
+
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
+<br>
+
+## Joining New Members
+- Special Members Joining Like:
+    - An Associate Professor of Electrical and Computer Engineering with 20 years of experience at  the University, of Florida, USA.
+    - A Senior Architect with 13 years of experience at Microsoft Ireland.
+    - An AI Researcher in Egypt, Computational linguist, and NLP engineer in Egypt.
+    - A Technical manager with 17 years of experience in Egypt.
+<br>
+
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
+<br>
+   
+## Private Youtube Videos
+- Private YouTube videos will be deleted at the end of September 2023 and they will be limited paid service.
+<br>
+
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
+<br>
+
+## Group Therapy #1
+- It was on 21-06-2023 at 9:00 PM Cairo time and the next one will be in December.
+- The number of attendees was more than 30. 
+- Discuss 5 work challenges for mentor members.
+- Discuss performance improvement topics.
 <br>
 
 **[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
