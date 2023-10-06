@@ -13,7 +13,7 @@
     - [Group Therapy](#group-therapy)
     - [Annual Calendar](#annual-calendar)
     - [DevOps Course License Update](#devops-course-license-update)
-    - [The Mentor and Course Update Price](#the-mentor-and-course-update-price)
+    - [Mentor and Course Update Price](#mentor-and-course-update-price)
     - [Discord Events](#discord-events)
     - [NDA Right](#nda-right)
     - [Group Advisory Updates](#group-advisory-updates)
