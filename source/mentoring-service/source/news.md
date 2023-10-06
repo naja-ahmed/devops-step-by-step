@@ -1,6 +1,7 @@
 ## News
   - [All News Between Meetup (#1) Jul 2023 and Meetup (#2) Oct 2023](#all-news-between-meetup-1-jul-2023-and-meetup-2-oct-2023)
     - [Group Advisory Meetings](#group-advisory-meetings)
+    - [Group Advisory Updates](#group-advisory-updates)
     - [Leadership Team Meeting](#leadership-team-meeting)
     - [Support Rules](#support-rules)
     - [One-to-One Sessions Rules](#one-to-one-sessions-rules)
@@ -16,7 +17,6 @@
     - [Mentor and Course Update Pricing](#mentor-and-course-update-pricing)
     - [Discord Events](#discord-events)
     - [NDA Rights](#nda-rights)
-    - [Group Advisory Updates](#group-advisory-updates)
     - [The New Platform](#the-new-platform)
     - [New Member Onboarding](#new-member-onboarding)
  - [All News Before Meetup (#1) July 2023](#the-first-meetup-news)  
@@ -62,6 +62,9 @@
   
   [Group Advisory Rules](https://devopsvisionsqa.mohamedradwan.com/?qa=853/what-are-the-rules-of-the-group-advisory-sub-program) 
 
+## Group Advisory Updates
+
+- The tag, information, and rules for group advisory will be updated regularly on our Knowledge Base.
 
 ## Leadership Team Meeting
 
@@ -184,11 +187,6 @@
 ## NDA Rights
 
 - Groups can be formed either online or in person, and NDA rights are taken into account before the group is created.
-
-
-## Group Advisory Updates
-
-- The tag, information, and rules for group advisory will be updated regularly on our Knowledge Base.
 
 
 # The New Platform
