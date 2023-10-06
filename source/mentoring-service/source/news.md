@@ -9,7 +9,7 @@
     - [MVP TechBytes with Mohamed Radwan](#mvp-techbytes-with-mohamed-radwan)
     - [Communication Skills Session Part (3)](#communication-skills-session-part-3)
     - [Ask Me Anything & Management](#ask-me-anything--management)
-    - [Mentor Meetup](#mentor-meetup)
+    - [Mentor Meetup #2](#mentor-meetup-2)
     - [Secret to Success with Michael Blumenthal & Mohamed Radwan](#secret-to-success-with-michael-blumenthal--mohamed-radwan)
     - [Group Therapy](#group-therapy)
     - [Annual Calendar](#annual-calendar)
@@ -21,7 +21,7 @@
     - [New Member Onboarding](#new-member-onboarding)
  - [All News Before Meetup (#1) July 2023](#the-first-meetup-news)  
     - [Annual Activities](#annual-activities)
-    - [Mentor Meetup](#mentor-meetup)
+    - [Mentor Meetup #1](#mentor-meetup-1)
     - [Qaderoon initiative](#qaderoon-initiative)
     - [Open the Discussion on the Inner-source](#open-the-discussion-on-the-inner-source)
     - [Move the Profile From the Q/A to the Inner Source](#move-the-profile-from-the-qa-to-the-inner-source)
@@ -139,7 +139,7 @@
 - **Agenda:** The meeting focused on discussing the questions submitted by mentor members.
 
 
-## Mentor Meetup
+## Mentor Meetup #2
 
 - **Date and Time:** Oct 04, 2023, at 7:00 PM UK Time.
 
@@ -224,7 +224,7 @@
 
 <br>
    
-# Mentor Meetup
+# Mentor Meetup #1
 ### - This is the first mentor meetup.
 ### - It will be on 18-07-2023 at 8:00 PM Cairo Time and the next one will be in October.
 ### - You Can find the meeting agenda at the Following Link:
