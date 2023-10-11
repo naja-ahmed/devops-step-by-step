@@ -54,13 +54,6 @@
 
 - 14 members have subscribed as a group advisory.
 
-- You can find the group advisory members at the following link:
-
-  [Group Advisory Members](https://devopsvisionsqa.mohamedradwan.com/?qa=690/what-names-current-groups-registered-group-advisory-program) 
-
-- You Can find the group advisory rules at the following link: 
-  
-  [Group Advisory Rules](https://devopsvisionsqa.mohamedradwan.com/?qa=853/what-are-the-rules-of-the-group-advisory-sub-program) 
 
 ## Group Advisory Updates
 
@@ -160,11 +153,7 @@
 
 - We have introduced a new update to the annual calendar, which now extends to the end of 2024.
 
--  You can find this calendar at the following links:
-
-    - [Public Calendar](https://calendar.google.com/calendar/u/0?cid=YTE5NjZmM2NmZjhjNTUzYzBhYmMzODhmZWQxYzdjNzFhZTdkNzcwODc1NDQ2ZjkyYTFkYjRiODRmNGFmNDM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
-
-    - [Private Calendar "needs to login to KB (Q&A)"](https://devopsvisionsqa.mohamedradwan.com/?qa=780/what-is-the-annual-calendar-for-the-mentor-activities&show=780#q780) 
+-  You can find this calendar at the following links: Public Calendar](https://calendar.google.com/calendar/u/0?cid=YTE5NjZmM2NmZjhjNTUzYzBhYmMzODhmZWQxYzdjNzFhZTdkNzcwODc1NDQ2ZjkyYTFkYjRiODRmNGFmNDM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
 
 
 ## DevOps Course License Update
