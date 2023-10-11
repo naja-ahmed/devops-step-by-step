@@ -1,47 +1,47 @@
-## News
-  - [All News Between Meetup (#1) Jul 2023 and Meetup (#2) Oct 2023](#all-news-between-meetup-1-jul-2023-and-meetup-2-oct-2023)
-    - [Group Advisory Meetings](#group-advisory-meetings)
-    - [Leadership Team Meeting](#leadership-team-meeting)
-    - [Support Rules](#support-rules)
-    - [One-to-One Sessions Rules](#one-to-one-sessions-rules)
-    - [Maximizing Productivity with Azure DevOps and Logic Apps](#maximizing-productivity-with-azure-devops-and-logic-apps)
-    - [MVP TechBytes with Mohamed Radwan](#mvp-techbytes-with-mohamed-radwan)
-    - [Communication Skills Session Part (3)](#communication-skills-session-part-3)
-    - [Ask Me Anything & Management](#ask-me-anything--management)
-    - [Mentor Meetup](#mentor-meetup)
-    - [Secret to Success with Michael Blumenthal & Mohamed Radwan](#secret-to-success-with-michael-blumenthal--mohamed-radwan)
-    - [Group Therapy](#group-therapy)
-    - [Annual Calendar](#annual-calendar)
-    - [DevOps Course License Update](#devops-course-license-update)
-    - [Mentor and Course Update Pricing](#mentor-and-course-update-pricing)
-    - [Discord Events](#discord-events)
-    - [NDA Right](#nda-right)
-    - [Group Advisory Updates](#group-advisory-updates)
-    - [The New Platform](#the-new-platform)
-    - [New Member Onboarding](#new-member-onboarding)
- - [All News Before Meetup (#1) July 2023](#the-first-meetup-news)  
-    - [Annual Activities](#annual-activities)
-    - [Mentor Meetup](#mentor-meetup)
-    - [Qaderoon initiative](#qaderoon-initiative)
-    - [Open the Discussion on the Inner-source](#open-the-discussion-on-the-inner-source)
-    - [Move the Profile From the Q/A to the Inner Source](#move-the-profile-from-the-qa-to-the-inner-source)
-    - [The Group Advisory](#the-group-advisory)
-    - [Discounts](#discounts)
-    - [The Secret to Success](#the-secret-to-success)
-    - [Random Casual Online Mentor Meetup](#random-casual-online-mentor-meetup)
-    - [Joining New Members](#joining-new-members)
-    - [Private Youtube Videos](#private-youtube-videos)
-    - [Group Therapy ](#group-therapy )
-    - [Communication Skills Session Part 2](#communication-skills-session-part-2)
-    - [Post Mortem after Communication Skills Session Part 2](#post-mortem-after-communication-skills-session-part-2)
-    - [DevOps Sessions Securely Deploying Apps with Azure AD and Terraform](#devops-sessions-securely-deploying-apps-with-azure-ad-and-terraform)
-    - [Mentor Private one - one Session Details](#mentor-private-one---one-session-details)
-    - [Cloud Migration Project](#cloud-migration-project)
-    - [Induction and Onboarding Session for The Mentor Program](#induction-and-onboarding-session-for-the-mentor-program)
-    - [Gathering](#gathering)
-    - [Public Google form for questions](#public-google-form-for-questions)
-    - [Communication Skills Session Part 1](#communication-skills-session-part-1)
-    - [Members Celebration](#members-celebration)
+# News
+## All News Between Meetup (#1) Jul 2023 and Meetup (#2) Oct 2023
+- [Group Advisory Meetings](#group-advisory-meetings)
+- [Group Advisory Updates](#group-advisory-updates)
+- [Leadership Team Meeting](#leadership-team-meeting)
+- [Support Rules](#support-rules)
+- [One-to-One Sessions Rules](#one-to-one-sessions-rules)
+- [Maximizing Productivity with Azure DevOps and Logic Apps](#maximizing-productivity-with-azure-devops-and-logic-apps)
+- [MVP TechBytes with Mohamed Radwan](#mvp-techbytes-with-mohamed-radwan)
+- [Communication Skills Session Part (3)](#communication-skills-session-part-3)
+- [Ask Me Anything & Management](#ask-me-anything--management)
+- [Mentor Meetup #2](#mentor-meetup-2)
+- [Secret to Success with Michael Blumenthal & Mohamed Radwan](#secret-to-success-with-michael-blumenthal--mohamed-radwan)
+- [Group Therapy #2](#group-therapy-2)
+- [Annual Calendar](#annual-calendar)
+- [DevOps Course License Update](#devops-course-license-update)
+- [Mentor and Course Update Pricing](#mentor-and-course-update-pricing)
+- [Discord Events](#discord-events)
+- [NDA Rights](#nda-rights)
+- [The New Platform](#the-new-platform)
+- [New Member Onboarding](#new-member-onboarding)
+## All News Before Meetup (#1) July 2023
+- [Annual Activities](#annual-activities)
+- [Mentor Meetup #1](#mentor-meetup-1)
+- [Qaderoon initiative](#qaderoon-initiative)
+- [Open the Discussion on the Inner-source](#open-the-discussion-on-the-inner-source)
+- [Move the Profile From the Q/A to the Inner Source](#move-the-profile-from-the-qa-to-the-inner-source)
+- [The Group Advisory](#the-group-advisory)
+- [Discounts](#discounts)
+- [The Secret to Success](#the-secret-to-success)
+- [Random Casual Online Mentor Meetup](#random-casual-online-mentor-meetup)
+- [Joining New Members](#joining-new-members)
+- [Private Youtube Videos](#private-youtube-videos)
+- [Group Therapy #1](#group-therapy-1)
+- [Communication Skills Session Part 2](#communication-skills-session-part-2)
+- [Post Mortem after Communication Skills Session Part 2](#post-mortem-after-communication-skills-session-part-2)
+- [DevOps Sessions Securely Deploying Apps with Azure AD and Terraform](#devops-sessions-securely-deploying-apps-with-azure-ad-and-terraform)
+- [Mentor Private one - one Session Details](#mentor-private-one---one-session-details)
+- [Cloud Migration Project](#cloud-migration-project)
+- [Induction and Onboarding Session for The Mentor Program](#induction-and-onboarding-session-for-the-mentor-program)
+- [Gathering](#gathering)
+- [Public Google form for questions](#public-google-form-for-questions)
+- [Communication Skills Session Part 1](#communication-skills-session-part-1)
+- [Members Celebration](#members-celebration)
 
 # All News Between Meetup (#1) Jul 2023 and Meetup (#2) Oct 2023
 
@@ -54,14 +54,10 @@
 
 - 14 members have subscribed as a group advisory.
 
-- You can find the group advisory members at the following link:
 
-  [Group Advisory Members](https://devopsvisionsqa.mohamedradwan.com/?qa=690/what-names-current-groups-registered-group-advisory-program) 
+## Group Advisory Updates
 
-- You Can find the group advisory rules at the following link: 
-  
-  [Group Advisory Rules](https://devopsvisionsqa.mohamedradwan.com/?qa=853/what-are-the-rules-of-the-group-advisory-sub-program) 
-
+- The tag, information, and rules for group advisory will be updated regularly on our Knowledge Base.
 
 ## Leadership Team Meeting
 
@@ -132,11 +128,11 @@
 ## Ask Me Anything & Management
 
 - **Date and Time:** September 19, 2023, at 7:00 PM UK Time.
-
+  
 - **Agenda:** The meeting focused on discussing the questions submitted by mentor members.
 
-
-## Mentor Meetup
+ 
+## Mentor Meetup #2
 
 - **Date and Time:** Oct 04, 2023, at 7:00 PM UK Time.
 
@@ -148,7 +144,7 @@
 - **Topic:** Explore the "Secret to Success" [Michael Blumenthal](events-speakers.md#michael-blumenthal) and [Mohamed Radwan](events-speakers.md#mohamed-radwan).
 
 
-## Group Therapy
+## Group Therapy #2
 
 - **Date and Time:** Nov 08, 2023, at 7:00 PM UK Time.
 
@@ -157,11 +153,7 @@
 
 - We have introduced a new update to the annual calendar, which now extends to the end of 2024.
 
--  You can find this calendar at the following links:
-
-    - [Public Calendar](https://calendar.google.com/calendar/u/0?cid=YTE5NjZmM2NmZjhjNTUzYzBhYmMzODhmZWQxYzdjNzFhZTdkNzcwODc1NDQ2ZjkyYTFkYjRiODRmNGFmNDM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
-
-    - [Private Calendar "needs to login to KB (Q&A)"](https://devopsvisionsqa.mohamedradwan.com/?qa=780/what-is-the-annual-calendar-for-the-mentor-activities&show=780#q780) 
+-  You can find this calendar at the following links: Public Calendar](https://calendar.google.com/calendar/u/0?cid=YTE5NjZmM2NmZjhjNTUzYzBhYmMzODhmZWQxYzdjNzFhZTdkNzcwODc1NDQ2ZjkyYTFkYjRiODRmNGFmNDM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
 
 
 ## DevOps Course License Update
@@ -181,23 +173,20 @@
 - We're now using Discord's Event feature for all our events, and the old meeting channels are no longer in use.
 
 
-## NDA Right
+## NDA Rights
 
 - Groups can be formed either online or in person, and NDA rights are taken into account before the group is created.
 
 
-## Group Advisory Updates
+## The New Platform
 
-- The tag, information, and rules for group advisory will be updated regularly on our Knowledge Base.
+**Date and Time:** Oct 11, 2023, at 7:00 PM UK Time.
 
+- **Topic:** Discover Our New Exciting Platform.
 
-# The New Platform
+- It is now possible for the Mentor's members to register on the new platform.
 
-- It is now possible for the Mentor's members to register on the new platform using the following link:
-
-  [Platform](https://learn.mohamedradwan.com/) 
-
-
+ 
 ## New Member Onboarding
 
 - For our new members, the onboarding process will span 3 months. We've divided the year into 4 quarters to align with their joining dates:
@@ -211,120 +200,108 @@
 
 
 
-# The First Meetup News
-# Annual Activities
-### - There are 24 activities/year. 
-### -  There are 2 activities/month.
-### - There is a public calendar starting from May 2023 to May 2024, You can find this calendar at the following link:
-- [Public Calendar](https://calendar.google.com/calendar/u/0?cid=YTE5NjZmM2NmZjhjNTUzYzBhYmMzODhmZWQxYzdjNzFhZTdkNzcwODc1NDQ2ZjkyYTFkYjRiODRmNGFmNDM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
-- [Private Calendar "needs to login to KB (Q&A)"](https://devopsvisionsqa.mohamedradwan.com/?qa=780/what-is-the-annual-calendar-for-the-mentor-activities&show=780#q780) 
+# All News Before Meetup #1 July 2023
+## Annual Activities
+- There are 24 activities/year.
+-  There are 2 activities/month.
+-  There is a public calendar starting from May 2023 to May 2024, You can find this calendar at the following links: Public Calendar](https://calendar.google.com/calendar/u/0?cid=YTE5NjZmM2NmZjhjNTUzYzBhYmMzODhmZWQxYzdjNzFhZTdkNzcwODc1NDQ2ZjkyYTFkYjRiODRmNGFmNDM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
+ 
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
-# Mentor Meetup
-### - This is the first mentor meetup.
-### - It will be on 18-07-2023 at 8:00 PM Cairo Time and the next one will be in October.
-### - You Can find the meeting agenda at the Following Link:
-- [Agenda](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mentoring-service/source/agenda.md#mentor-meetup) 
+## Mentor Meetup #1
+- **Date and Time:** JUL 18, 2023, at 6:00 PM UK Time.
+- This is the first mentor meetup.
+- the next one will be in October.
+- You Can find the meeting agenda at the Following Link: [Agenda](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mentoring-service/source/agenda.md#mentor-meetup) 
 <br>
 
-[⬆ back to top](#news)
-
-<br>
-   
-# Qaderoon initiative
-### - Eng. Mohamed Radwan joined the “Qaderoon” initiative, which is an Egyptian initiative to rehabilitate and develop youth with the support of the Ministry of Social Solidarity, and it was agreed on joint cooperation.
-<br>
-
-[⬆ back to top](#news)
-
-<br>
-
-# Open the Discussion on the Inner-source
-### - The discussion was opened on the inner source to allow members to discuss various topics.
-<br>
-
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
-# Move the Profile From the Q/A to the Inner Source
-### - We have moved user profiles from our KB (Q&A) to a private repo (inner-source), and since this is a private repo, no one public can access it without adding them first.
+## Qaderoon initiative
+- Eng. Mohamed Radwan joined the “Qaderoon” initiative, which is an Egyptian initiative to rehabilitate and develop youth with the support of the Ministry of Social Solidarity, and it was agreed on joint cooperation.
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
-# The Group Advisory
-### - A group advisory meeting will be on 19-07-2023 at 8:30 PM Cairo Time .
-### - 12 members subscribed as a group advisory.
+## Open the Discussion on the Inner-source
+- The discussion was opened on the inner source to allow members to discuss various topics.
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
-# Discounts
-## Members will be given a discount on the renewal fees for the mentor program (in December) in case of:
-### - They participate as a group advisory.
-### - They join the private repo before the end of May 2023.
-### - They complete their profile for the user profile at the private repo before the end of May 2023.
+## Move the Profile From the Q/A to the Inner Source
+- We have moved user profiles from our KB (Q&A) to a private repo (inner-source), and since this is a private repo, no one public can access it without adding them first.
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
-# The Secret to Success
-### - The Secret to Success with MVPs [Anthony Mashford](events-speakers.md#anthony-mashford)  & [Mohamed Radwan](events-speakers.md#mohamed-radwan) was on 11-07-2023 at 8:00 PM Cairo Time.
+## The Group Advisory
+- **Date and Time:** JUL 19, 2023, at 6:30 PM UK Time.
+- 12 members subscribed as a group advisory.
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
-# Random Casual Online Mentor Meetup
-### - As one of the mentor activities there is a random online meetup the first one was done on 01-07-2023 at 1:00 PM Cairo time. 
-### - The number of attendees is 10 members.
+## Discounts
+- Members will be given a discount on the renewal fees for the mentor program (in December) in case of:
+    - They participate as a group advisory.
+    - They join the private repo before the end of May 2023.
+    - They complete their profile for the user profile at the private repo before the end of May 2023.
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
-# Joining New Members
-## Special Members Joining Like:
-### - An Associate Professor of Electrical and Computer Engineering with 20 years of experience at  the University, of Florida, USA.
-### - A Senior Architect with 13 years of experience at Microsoft Ireland.
-### - An AI Researcher in Egypt, Computational linguist, and NLP engineer in Egypt.
-### - A Technical manager with 17 years of experience in Egypt.
+## The Secret to Success
+- **Date and Time:** Jul 11, 2023, at 6:00 PM UK Time.
+- **Topic:** Explore the "Secret to Success" [Anthony Mashford](events-speakers.md#anthony-mashford) & [Mohamed Radwan](events-speakers.md#mohamed-radwan).
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
-# Private Youtube Videos
-### - Private YouTube videos will be deleted at the end of September 2023 and they will be limited paid service.
+## Random Casual Online Mentor Meetup
+- **Date and Time:** Jul 01, 2023, at 11:00 AM UK Time.
+- The number of attendees was 10 members.
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
-# Group Therapy
-### - It was on 21-06-2023 at 9:00 PM Cairo time and the next one will be in December.
-### - The number of attendees was more than 30. 
-### - Discuss 5 work challenges for mentor members.
-### - Discuss performance improvement topics.
+## Joining New Members
+- Special Members Joining Like:
+    - An Associate Professor of Electrical and Computer Engineering with 20 years of experience at  the University, of Florida, USA.
+    - A Senior Architect with 13 years of experience at Microsoft Ireland.
+    - An AI Researcher in Egypt, Computational linguist, and NLP engineer in Egypt.
+    - A Technical manager with 17 years of experience in Egypt.
 <br>
 
-[⬆ back to top](#news)
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
+<br>
+   
+## Private Youtube Videos
+- Private YouTube videos will be deleted at the end of September 2023 and they will be limited paid service.
+<br>
 
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
+<br>
+
+## Group Therapy #1
+- It was on 21-06-2023 at 9:00 PM Cairo time and the next one will be in December.
+- The number of attendees was more than 30. 
+- Discuss 5 work challenges for mentor members.
+- Discuss performance improvement topics.
+<br>
+
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
 # Communication Skills Session Part 2
@@ -341,16 +318,14 @@ https://www.linkedin.com/in/mhshahin/
 https://www.youtube.com/watch?v=LNmBb1Yrdko
 <br><br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
 # Post Mortem After Communication Skills Session Part 2
 ### - After the Communication Skills Session there was a post-mortem to discuss the session to extract the lesson learned and avoid repetition problems in the following sessions.
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
 # DevOps Sessions Securely Deploying Apps with Azure AD and Terraform
@@ -361,8 +336,7 @@ https://www.linkedin.com/in/abdelhalimzaki/
 https://www.youtube.com/watch?v=s88vCcoEI5Y
 <br><br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
 # Mentor Private one - one Session Details
@@ -372,8 +346,7 @@ https://www.youtube.com/watch?v=s88vCcoEI5Y
 ### - The best way to book private sessions is to book sessions on an annual basis, with a rate of 3 sessions to a maximum of 6 sessions per year, according to the person's experience, and this will be an advantage for him.
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
 # Cloud Migration Project
@@ -383,8 +356,7 @@ https://www.youtube.com/watch?v=s88vCcoEI5Y
 ### - It will be a Cloud Migration training project for mentor members. 
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
 # Induction and Onboarding Session for The Mentor Program
@@ -392,8 +364,7 @@ https://www.youtube.com/watch?v=s88vCcoEI5Y
 ### - This is the meeting of the induction and onboarding session for the new members of the Mentor program.
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
 # Gathering
@@ -411,8 +382,7 @@ https://www.youtube.com/watch?v=s88vCcoEI5Y
 ## Virtual Gathering on 18-03-2023 from 12:00 PM to 07:00 PM Cairo time
 <br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
 # Public Google form for questions
@@ -421,8 +391,7 @@ https://www.youtube.com/watch?v=s88vCcoEI5Y
 https://forms.gle/kkMBZGD1hWWPWq349
 <br><br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
 # Communication Skills Session Part 1
@@ -442,8 +411,7 @@ https://www.linkedin.com/in/mohamedahmedradwan/
 https://www.youtube.com/watch?v=Ll6j1_9DuWc
 <br><br>
 
-[⬆ back to top](#news)
-
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
 # Members Celebration
@@ -455,4 +423,5 @@ https://www.youtube.com/watch?v=Ll6j1_9DuWc
 ### - Joining New Members.
 <br>
 
-[⬆ back to top](#news)
+**[⬆ back to top](#news)**
+
