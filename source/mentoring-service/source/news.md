@@ -137,10 +137,8 @@
 - **Date and Time:** September 19, 2023, at 7:00 PM UK Time.
   
 - **Agenda:** The meeting focused on discussing the questions submitted by mentor members.
+
  
-- **Form Link:** You can find the form to submit your questions at the following link: [AMA Form](https://devopsvisionsqa.mohamedradwan.com/?qa=855/where-can-find-the-form-submit-questions-for-ama-ask-anything).
-
-
 ## Mentor Meetup #2
 
 - **Date and Time:** Oct 04, 2023, at 7:00 PM UK Time.
