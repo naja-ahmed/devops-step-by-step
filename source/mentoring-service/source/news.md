@@ -302,124 +302,120 @@
 
 **[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
-   
-# Communication Skills Session Part 2
-### - It was on 22-06-2023 at 9:00 PM Cairo time.
-### - The number of online attendees was more than 350. 
-### - Presenters:
-### - Mohamed Elrais: Technical Skills.
-https://www.linkedin.com/in/mohamedelrais/
-### - Mostafa Ahmed: Email Etiquette.
-https://www.linkedin.com/in/mostafa-ahmed-1b588862/
-### - Mahmoud Shahin: Professional Communication.
-https://www.linkedin.com/in/mhshahin/
-### - You Can find small Snapshots from the session at the Following Link: 
-https://www.youtube.com/watch?v=LNmBb1Yrdko
+
+## Communication Skills Session Part 2
+- It was on 22-06-2023 at 9:00 PM Cairo time.
+- The number of online attendees was more than 350. 
+- Presenters:
+    - [Mohamed Elrais](https://www.linkedin.com/in/mohamedelrais/): Technical Skills.
+    - [Mostafa Ahmed](https://www.linkedin.com/in/mostafa-ahmed-1b588862/): Email Etiquette.
+    - [Mahmoud Shahin](https://www.linkedin.com/in/mhshahin/): Professional Communication.
+- You Can find small Snapshots from the session at the Following Link: [Communication Skills Session Part 2](https://www.youtube.com/watch?v=LNmBb1Yrdko)
 <br><br>
 
 **[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
-# Post Mortem After Communication Skills Session Part 2
-### - After the Communication Skills Session there was a post-mortem to discuss the session to extract the lesson learned and avoid repetition problems in the following sessions.
+## Post Mortem After Communication Skills Session Part 2
+- After the Communication Skills Session there was a post-mortem to discuss the session to extract the lesson learned and avoid repetition problems in the following sessions.
 <br>
 
 **[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
-# DevOps Sessions Securely Deploying Apps with Azure AD and Terraform
-### Presenter:
-### - AbdElHalim Zaki 
+## DevOps Sessions Securely Deploying Apps with Azure AD and Terraform
+- Presenter:
+    - AbdElHalim Zaki 
 https://www.linkedin.com/in/abdelhalimzaki/
-### - You Can find the session at the Following Link: 
+- You Can find the session at the Following Link: 
 https://www.youtube.com/watch?v=s88vCcoEI5Y
 <br><br>
 
 **[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
-# Mentor Private one - one Session Details
-### - The First Ordinary Session will be 30 min with a paid fee of 500 EGP and the reservation is at least a month earlier.
-### - The First urgent session will be 30 min with a paid fee of 2000 EGP and the reservation is at least a week earlier.
-### - The price of the second private session is variable and depends on many factors.
-### - The best way to book private sessions is to book sessions on an annual basis, with a rate of 3 sessions to a maximum of 6 sessions per year, according to the person's experience, and this will be an advantage for him.
+## Mentor Private one - one Session Details
+- The First Ordinary Session will be 30 min with a paid fee of 500 EGP and the reservation is at least a month earlier.
+- The First urgent session will be 30 min with a paid fee of 2000 EGP and the reservation is at least a week earlier.
+- The price of the second private session is variable and depends on many factors.
+- The best way to book private sessions is to book sessions on an annual basis, with a rate of 3 sessions to a maximum of 6 sessions per year, according to the person's experience, and this will be an advantage for him.
 <br>
 
 **[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
-# Cloud Migration Project
-## Real project
-### - It was a paid Cloud Migration Real project for mentor members. 
-## Training project
-### - It will be a Cloud Migration training project for mentor members. 
-<br>
-
-**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
-<br>
-   
-# Induction and Onboarding Session for The Mentor Program
-### - It was on 05-06-2023 at 8:00 PM Cairo time.
-### - This is the meeting of the induction and onboarding session for the new members of the Mentor program.
-<br>
-
-**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
-<br>
-
-# Gathering
-## In-Person Gathering:
-### - Japan/Tokyo Nov 2022.
-### - Egypt/Cairo Feb 2023. 
-### - USA/Seattle April 2023.
-
-## Ladies Gathering 
-### - Egypt/Cairo Tower on 11-06-2023.
-### - Egypt/Aisha Fahmy Palace 11-06-2023.
-### - Egypt/Mamluk Desert on 27-05-2023.
-### - Egypt/Nile City on 08-07-2023.
-
-## Virtual Gathering on 18-03-2023 from 12:00 PM to 07:00 PM Cairo time
+## Cloud Migration Project
+- Real project
+    - It was a paid Cloud Migration Real project for mentor members. 
+- Training project
+    - It will be a Cloud Migration training project for mentor members. 
 <br>
 
 **[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
    
-# Public Google form for questions
-### Mentor members created a form that anyone can ask a question and one of them will answer it.
-### If someone sends a message to eng. Radwan didn't respond to it, he apologizes, but you can contact him using the form at the following Link: 
+## Induction and Onboarding Session for The Mentor Program
+- It was on 05-06-2023 at 8:00 PM Cairo time.
+- This is the meeting of the induction and onboarding session for the new members of the Mentor program.
+<br>
+
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
+<br>
+
+## Gathering
+- In-Person Gathering:
+    - Japan/Tokyo Nov 2022.
+    - Egypt/Cairo Feb 2023. 
+    - USA/Seattle April 2023.
+
+- Ladies Gathering 
+    - Egypt/Cairo Tower on 11-06-2023.
+    - Egypt/Aisha Fahmy Palace 11-06-2023.
+    - Egypt/Mamluk Desert on 27-05-2023.
+    - Egypt/Nile City on 08-07-2023.
+
+- Virtual Gathering on 18-03-2023 from 12:00 PM to 07:00 PM Cairo time
+<br>
+
+**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
+<br>
+   
+## Public Google form for questions
+- Mentor members created a form that anyone can ask a question and one of them will answer it.
+- If someone sends a message to eng. Radwan didn't respond to it, he apologizes, but you can contact him using the form at the following Link: 
 https://forms.gle/kkMBZGD1hWWPWq349
 <br><br>
 
 **[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
-# Communication Skills Session Part 1
-### - It was on 15-03-2023 at 8:00 PM Cairo time.
-### - The number of online attendees was more than 300. 
-### - It was about Effective Communication Skills in a multinational  organization.
-### Presenters:
-### - AbdElHalim Zaki 
+## Communication Skills Session Part 1
+- It was on 15-03-2023 at 8:00 PM Cairo time.
+- The number of online attendees was more than 300. 
+- It was about Effective Communication Skills in a multinational  organization.
+- Presenters:
+    - AbdElHalim Zaki 
 https://www.linkedin.com/in/abdelhalimzaki/
-### - Neveen Abd-Elazeem
+    - Neveen Abd-Elazeem
 https://www.linkedin.com/in/eng-neveen-abd-elazeem-b57041217/
-### - Rehab Ragab
+    - Rehab Ragab
 https://www.linkedin.com/in/rehab-ragab-04a22b19a/
-### - Mohamed Radwan
+    - Mohamed Radwan
 https://www.linkedin.com/in/mohamedahmedradwan/
-### - You Can find small Snapshots from the session at the Following Link: 
+- You Can find small Snapshots from the session at the Following Link: 
 https://www.youtube.com/watch?v=Ll6j1_9DuWc
 <br><br>
 
 **[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
 <br>
 
-# Members Celebration
-### Mentor members are celebrated for their accomplishments as follows:
-### - Salary Raise. 
-### - Azure Fundamentals Exam Certification.
-### - DevOps Engineer Expert.
-### - Joining Big Company. 
-### - Joining New Members.
+## Members Celebration
+- Mentor members are celebrated for their accomplishments as follows:
+    - Salary Raise. 
+    - Azure Fundamentals Exam Certification.
+    - DevOps Engineer Expert.
+    - Joining Big Company. 
+    - Joining New Members.
 <br>
 
 **[⬆ back to top](#news)**
