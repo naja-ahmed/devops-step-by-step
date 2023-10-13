@@ -1,7 +1,6 @@
 # News
 ## All News Between Meetup (#1) Jul 2023 and Meetup (#2) Oct 2023
-- [Group Advisory Meetings](#group-advisory-meetings)
-- [Group Advisory Updates](#group-advisory-updates)
+- [Group Advisory](#group-advisory)
 - [Leadership Team Meeting](#leadership-team-meeting)
 - [Support Rules](#support-rules)
 - [One-to-One Sessions Rules](#one-to-one-sessions-rules)
@@ -45,7 +44,7 @@
 
 # All News Between Meetup (#1) Jul 2023 and Meetup (#2) Oct 2023
 
-## Group Advisory Meetings
+## Group Advisory
 
 - **Date and Time:** 
 
@@ -54,17 +53,8 @@
 
 - 14 members have subscribed as a group advisory.
 
-- You can find the group advisory members at the following link:
-
-  [Group Advisory Members](https://devopsvisionsqa.mohamedradwan.com/?qa=690/what-names-current-groups-registered-group-advisory-program) 
-
-- You Can find the group advisory rules at the following link: 
-  
-  [Group Advisory Rules](https://devopsvisionsqa.mohamedradwan.com/?qa=853/what-are-the-rules-of-the-group-advisory-sub-program) 
-
-## Group Advisory Updates
-
 - The tag, information, and rules for group advisory will be updated regularly on our Knowledge Base.
+
 
 ## Leadership Team Meeting
 
