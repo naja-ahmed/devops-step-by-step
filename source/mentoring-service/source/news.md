@@ -126,10 +126,10 @@
  
 ## New Member Onboarding
 - For our new members, the onboarding process will span 3 months. We've divided the year into 4 quarters to align with their joining dates:
-    - First Quarter: January to March
-    - Second Quarter: April to June
-    - Third Quarter: July to September
-    - Fourth Quarter: October to December
+    - **First Quarter:** January to March
+    - **Second Quarter:** April to June
+    - **Third Quarter:** July to September
+    - **Fourth Quarter:** October to December
 
 **[⬆ back to top](#news)**
 
@@ -214,9 +214,9 @@
 - The best way to book private sessions is to book sessions on an annual basis, with a rate of 3 sessions to a maximum of 6 sessions per year, according to the person's experience, and this will be an advantage for him.
 
 ## Cloud Migration Project
-- Real project
+- **Real project**
     - It was a paid Cloud Migration Real project for mentor members. 
-- Training project
+- **Training project**
     - It will be a Cloud Migration training project for mentor members. 
 
 ## Induction and Onboarding Session for The Mentor Program
@@ -224,16 +224,17 @@
 - This is the meeting of the induction and onboarding session for the new members of the Mentor program.
   
 ## Gathering
-- In-Person Gathering:
+- **In-Person Gathering:**
     - Japan/Tokyo Nov 2022.
     - Egypt/Cairo Feb 2023. 
     - USA/Seattle April 2023.
-- Ladies Gathering 
+- **Ladies Gathering** 
     - Egypt/Cairo Tower on 11-06-2023.
     - Egypt/Aisha Fahmy Palace 11-06-2023.
     - Egypt/Mamluk Desert on 27-05-2023.
     - Egypt/Nile City on 08-07-2023.
-- Virtual Gathering on 18-03-2023 from 12:00 PM to 07:00 PM Cairo time
+- **Virtual Gathering**
+    - on 18-03-2023 from 12:00 PM to 07:00 PM Cairo time
   
 ## Public Google form for questions
 - Mentor members created a form that anyone can ask a question and one of them will answer it.
