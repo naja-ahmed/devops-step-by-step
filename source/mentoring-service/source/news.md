@@ -150,11 +150,9 @@
 
 - We have introduced a new update to the annual calendar, which now extends to the end of 2024.
 
--  You can find this calendar at the following links:
+-  You can find our public calendar at the following link [Public Calendar](https://calendar.google.com/calendar/u/0?cid=YTE5NjZmM2NmZjhjNTUzYzBhYmMzODhmZWQxYzdjNzFhZTdkNzcwODc1NDQ2ZjkyYTFkYjRiODRmNGFmNDM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
 
-    - [Public Calendar](https://calendar.google.com/calendar/u/0?cid=YTE5NjZmM2NmZjhjNTUzYzBhYmMzODhmZWQxYzdjNzFhZTdkNzcwODc1NDQ2ZjkyYTFkYjRiODRmNGFmNDM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
-
-    - [Private Calendar "needs to login to KB (Q&A)"](https://devopsvisionsqa.mohamedradwan.com/?qa=780/what-is-the-annual-calendar-for-the-mentor-activities&show=780#q780) 
+- You can find our private calendar on our Knowledge Base.
 
 
 ## DevOps Course License Update
@@ -205,9 +203,8 @@
 ## Annual Activities
 - There are 24 activities/year.
 -  There are 2 activities/month.
--  There is a public calendar starting from May 2023 to May 2024, You can find this calendar at the following links:
-    - [Public Calendar](https://calendar.google.com/calendar/u/0?cid=YTE5NjZmM2NmZjhjNTUzYzBhYmMzODhmZWQxYzdjNzFhZTdkNzcwODc1NDQ2ZjkyYTFkYjRiODRmNGFmNDM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
-    - [Private Calendar "needs to login to KB (Q&A)"](https://devopsvisionsqa.mohamedradwan.com/?qa=780/what-is-the-annual-calendar-for-the-mentor-activities&show=780#q780) 
+-  There is a public calendar starting from May 2023 to May 2024, You can find this calendar at the following links: [Public Calendar](https://calendar.google.com/calendar/u/0?cid=YTE5NjZmM2NmZjhjNTUzYzBhYmMzODhmZWQxYzdjNzFhZTdkNzcwODc1NDQ2ZjkyYTFkYjRiODRmNGFmNDM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
+- You can find our private calendar on our Knowledge Base.
 <br>
 
 **[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
