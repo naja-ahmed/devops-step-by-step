@@ -53,7 +53,7 @@
 
 - [⬇️ Mastering Terraform (Get Certified)](source/mastering-terraform/ "Mastering Terraform (Get Certified)")
 
-  - [📃 Course Outlines](/source/mastering-terraform/terraform-outline.md "Course Outlines")
+  - [📃 Course Outlines](source/mastering-terraform/source/terraform-outline.md "Course Outlines")
 
 - [💪 Mentoring Service](/source/mentoring-service/ "Mentoring Service")
 
@@ -85,7 +85,7 @@
 
 - [❓ General FAQ](/source/faq.md "FAQ")
 
-- [🙋‍♀️ Q/A](http://devopsvisionsqa.mohamedradwan.com/ "Q/A")
+- [🙋‍♀️ Q/A (Knowledge Base) (KB)](http://devopsvisionsqa.mohamedradwan.com/ "Q/A")
 
 - [⭐ Reviews (Individuals)](/source/review-individuals.md "Click here to See Members Reviews")
 
