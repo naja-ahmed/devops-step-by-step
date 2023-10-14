@@ -202,10 +202,10 @@
 
 - For our new members, the onboarding process will span 3 months. We've divided the year into 4 quarters to align with their joining dates:
 
-    - First Quarter: January to March
-    - Second Quarter: April to June
-    - Third Quarter: July to September
-    - Fourth Quarter: October to December
+    - **First Quarter:** January to March
+    - **Second Quarter:** April to June
+    - **Third Quarter:** July to September
+    - **Fourth Quarter:** October to December
 
 **[⬆ back to top](#news)**
 
