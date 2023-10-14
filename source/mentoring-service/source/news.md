@@ -8,9 +8,9 @@
     - [MVP TechBytes with Mohamed Radwan](#mvp-techbytes-with-mohamed-radwan)
     - [Communication Skills Session Part (3)](#communication-skills-session-part-3)
     - [Ask Me Anything & Management](#ask-me-anything--management)
-    - [Mentor Meetup](#mentor-meetup)
+    - [Mentor Meetup #2](#mentor-meetup-2)
     - [Secret to Success with Michael Blumenthal & Mohamed Radwan](#secret-to-success-with-michael-blumenthal--mohamed-radwan)
-    - [Group Therapy](#group-therapy)
+    - [Group Therapy #2](#group-therapy-2)
     - [Annual Calendar](#annual-calendar)
     - [DevOps Course License Update](#devops-course-license-update)
     - [The Mentor and Course Update Price](#the-mentor-and-course-update-price)
@@ -21,7 +21,7 @@
     - [New Member Onboarding](#new-member-onboarding)
  - [All News Before Meetup (#1) July 2023](#the-first-meetup-news)  
     - [Annual Activities](#annual-activities)
-    - [Mentor Meetup](#mentor-meetup)
+    - [Mentor Meetup #1](#mentor-meetup-1)
     - [Qaderoon initiative](#qaderoon-initiative)
     - [Open the Discussion on the Inner-source](#open-the-discussion-on-the-inner-source)
     - [Move the Profile From the Q/A to the Inner Source](#move-the-profile-from-the-qa-to-the-inner-source)
@@ -31,8 +31,8 @@
     - [Random Casual Online Mentor Meetup](#random-casual-online-mentor-meetup)
     - [Joining New Members](#joining-new-members)
     - [Private Youtube Videos](#private-youtube-videos)
-    - [Group Therapy ](#group-therapy )
-    - [Communication Skills Session Part 2](#communication-skills-session-part-2)
+    - [Group Therapy #1](#group-therapy-1)
+    - [Communication Skills Session Part (2)](#communication-skills-session-part-2)
     - [Post Mortem after Communication Skills Session Part 2](#post-mortem-after-communication-skills-session-part-2)
     - [DevOps Sessions Securely Deploying Apps with Azure AD and Terraform](#devops-sessions-securely-deploying-apps-with-azure-ad-and-terraform)
     - [Mentor Private one - one Session Details](#mentor-private-one---one-session-details)
@@ -40,7 +40,7 @@
     - [Induction and Onboarding Session for The Mentor Program](#induction-and-onboarding-session-for-the-mentor-program)
     - [Gathering](#gathering)
     - [Public Google form for questions](#public-google-form-for-questions)
-    - [Communication Skills Session Part 1](#communication-skills-session-part-1)
+    - [Communication Skills Session Part (1)](#communication-skills-session-part-1)
     - [Members Celebration](#members-celebration)
 
 # All News Between Meetup (#1) Jul 2023 and Meetup (#2) Oct 2023
@@ -136,7 +136,7 @@
 - **Agenda:** The meeting focused on discussing the questions submitted by mentor members.
 
 
-## Mentor Meetup
+## Mentor Meetup #2
 
 - **Date and Time:** Oct 04, 2023, at 7:00 PM UK Time.
 
@@ -148,7 +148,7 @@
 - **Topic:** Explore the "Secret to Success" [Michael Blumenthal](events-speakers.md#michael-blumenthal) and [Mohamed Radwan](events-speakers.md#mohamed-radwan).
 
 
-## Group Therapy
+## Group Therapy #2
 
 - **Date and Time:** Nov 08, 2023, at 7:00 PM UK Time.
 
@@ -169,7 +169,7 @@
 - The course license has been updated, and now Package 2 lasts for just three months.
 
 
-## Mentor and Course Update Pricing
+## The Mentor and Course Update Price
 
 - The prices for both courses and mentorship have been raised.
 
@@ -224,7 +224,7 @@
 
 <br>
    
-# Mentor Meetup
+# Mentor Meetup #1
 ### - This is the first mentor meetup.
 ### - It will be on 18-07-2023 at 8:00 PM Cairo Time and the next one will be in October.
 ### - You Can find the meeting agenda at the Following Link:
@@ -316,7 +316,7 @@
 
 <br>
 
-# Group Therapy
+# Group Therapy #1
 ### - It was on 21-06-2023 at 9:00 PM Cairo time and the next one will be in December.
 ### - The number of attendees was more than 30. 
 ### - Discuss 5 work challenges for mentor members.
@@ -327,7 +327,7 @@
 
 <br>
    
-# Communication Skills Session Part 2
+# Communication Skills Session Part (2)
 ### - It was on 22-06-2023 at 9:00 PM Cairo time.
 ### - The number of online attendees was more than 350. 
 ### - Presenters:
@@ -425,7 +425,7 @@ https://forms.gle/kkMBZGD1hWWPWq349
 
 <br>
 
-# Communication Skills Session Part 1
+# Communication Skills Session Part (1)
 ### - It was on 15-03-2023 at 8:00 PM Cairo time.
 ### - The number of online attendees was more than 300. 
 ### - It was about Effective Communication Skills in a multinational  organization.
