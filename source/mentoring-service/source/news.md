@@ -240,8 +240,8 @@
 
 <br>
 
-# Open the Discussion on the Inner-source
-### - The discussion was opened on the inner source to allow members to discuss various topics.
+## Open the Discussion on the Inner-source
+- The discussion was opened on the inner source to allow members to discuss various topics.
 <br>
 
 [⬆ back to top](#news)
