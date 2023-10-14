@@ -17,7 +17,6 @@
     - [Discord Events](#discord-events)
     - [NDA Right](#nda-right)
     - [Group Advisory Updates](#group-advisory-updates)
-    - [The New Platform](#the-new-platform)
     - [New Member Onboarding](#new-member-onboarding)
  - [All News Before Meetup (#1) July 2023](#the-first-meetup-news)  
     - [Annual Activities](#annual-activities)
@@ -186,14 +185,6 @@
 ## Group Advisory Updates
 
 - The tag, information, and rules for group advisory will be updated regularly on our Knowledge Base.
-
-
-# The New Platform
-
-- It is now possible for the Mentor's members to register on the new platform using the following link:
-
-  [Platform](https://learn.mohamedradwan.com/) 
-
 
 ## New Member Onboarding
 
