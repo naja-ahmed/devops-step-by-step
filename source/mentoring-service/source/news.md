@@ -98,9 +98,9 @@
 
 ### Presenters:
 
-- [Rehab Ragab](https://www.linkedin.com/in/rehab-ragab-04a22b19a/)
+  - [Rehab Ragab](https://www.linkedin.com/in/rehab-ragab-04a22b19a/)
 
-- [Mohamed Radwan](https://www.linkedin.com/in/mohamedahmedradwan/)
+  - [Mohamed Radwan](https://www.linkedin.com/in/mohamedahmedradwan/)
 
 
 ## MVP TechBytes with Mohamed Radwan
@@ -121,12 +121,9 @@
 - **Topic:** The session focused on "Presentation Skills, Email Etiquette, and Personal Branding".
 
 ### Presenters:
-
-- [Mohamed Elrais](https://www.linkedin.com/in/mohamedelrais/)
-
-- [Mostafa Ahmed](https://www.linkedin.com/in/mostafa-ahmed-1b588862/)
-
-- [Mahmoud Shahin](https://www.linkedin.com/in/mhshahin/)
+  - [Mohamed Elrais](https://www.linkedin.com/in/mohamedelrais/)
+  - [Mostafa Ahmed](https://www.linkedin.com/in/mostafa-ahmed-1b588862/)
+  - [Mahmoud Shahin](https://www.linkedin.com/in/mhshahin/)
 
 
 ## Ask Me Anything & Management
@@ -207,249 +204,134 @@
     - **Third Quarter:** July to September
     - **Fourth Quarter:** October to December
 
-**[⬆ back to top](#news)**
-
 # The First Meetup News
 ## Annual Activities
 - There are 24 activities/year. 
 -  There are 2 activities/month.
 - There is a public calendar starting from May 2023 to May 2024, You can find this calendar at the following link: [Public Calendar](https://calendar.google.com/calendar/u/0?cid=YTE5NjZmM2NmZjhjNTUzYzBhYmMzODhmZWQxYzdjNzFhZTdkNzcwODc1NDQ2ZjkyYTFkYjRiODRmNGFmNDM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
 - [Private Calendar "needs to login to KB (Q&A)"](https://devopsvisionsqa.mohamedradwan.com/?qa=780/what-is-the-annual-calendar-for-the-mentor-activities&show=780#q780) 
-<br>
-
-[⬆ back to top](#news)
-
-<br>
-   
+     
 ## Mentor Meetup #1
 - **Date and Time:** Jul 18, 2023, at 6:00 PM UK Time.
 - This is the first mentor meetup.
 - The next one will be in October.
 - You Can find the meeting agenda at the Following Link: [Agenda](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mentoring-service/source/agenda.md#mentor-meetup) 
-<br>
-
-[⬆ back to top](#news)
-
-<br>
-   
+  
 ## Qaderoon initiative
 - Eng. Mohamed Radwan joined the “Qaderoon” initiative, which is an Egyptian initiative to rehabilitate and develop youth with the support of the Ministry of Social Solidarity, and it was agreed on joint cooperation.
-<br>
-
-[⬆ back to top](#news)
-
-<br>
 
 ## Open the Discussion on the Inner-source
 - The discussion was opened on the inner source to allow members to discuss various topics.
-<br>
 
-[⬆ back to top](#news)
+## Move the Profile From the Q/A to the Inner Source
+- We have moved user profiles from our KB (Q&A) to a private repo (inner-source), and since this is a private repo, no one public can access it without adding them first.
 
-<br>
+## The Group Advisory
+- **Date and Time:** Jul 19, 2023, at 6:30 PM UK Time.
+- 12 members subscribed as a group advisory.
    
-# Move the Profile From the Q/A to the Inner Source
-### - We have moved user profiles from our KB (Q&A) to a private repo (inner-source), and since this is a private repo, no one public can access it without adding them first.
-<br>
+## Discounts
+- Members will be given a discount on the renewal fees for the mentor program (in December) in case of:
+  - They participate as a group advisory.
+  - They join the private repo before the end of May 2023.
+  - They complete their profile for the user profile at the private repo before the end of May 2023.
 
-[⬆ back to top](#news)
+## The Secret to Success
+- **Date and Time:** Jul 11, 2023, at 6:00 PM UK Time.
+- The Secret to Success with MVPs [Anthony Mashford](events-speakers.md#anthony-mashford)  & [Mohamed Radwan](events-speakers.md#mohamed-radwan)
+     
+## Random Casual Online Mentor Meetup
+- As one of the mentor activities there is a random online meetup the first one was done on 01-07-2023 at 1:00 PM Cairo time. 
+- The number of attendees is 10 members.
 
-<br>
+## Joining New Members
+- Special Members Joining Like:
+  - An Associate Professor of Electrical and Computer Engineering with 20 years of experience at  the University, of Florida, USA.
+  - A Senior Architect with 13 years of experience at Microsoft Ireland.
+  - An AI Researcher in Egypt, Computational linguist, and NLP engineer in Egypt.
+  - A Technical manager with 17 years of experience in Egypt.
 
-# The Group Advisory
-### - A group advisory meeting will be on 19-07-2023 at 8:30 PM Cairo Time .
-### - 12 members subscribed as a group advisory.
-<br>
-
-[⬆ back to top](#news)
-
-<br>
+## Private Youtube Videos
+- Private YouTube videos will be deleted at the end of September 2023 and they will be limited paid service.
+  
+## Group Therapy #1
+- **Date and Time:** Jun 21, 2023, at 7:00 PM UK Time.
+- **Online Attendance:** Over 30 participants.
+- the next one will be in December.
+- Discuss 5 work challenges for mentor members.
+- Discuss performance improvement topics.
    
-# Discounts
-## Members will be given a discount on the renewal fees for the mentor program (in December) in case of:
-### - They participate as a group advisory.
-### - They join the private repo before the end of May 2023.
-### - They complete their profile for the user profile at the private repo before the end of May 2023.
-<br>
-
-[⬆ back to top](#news)
-
-<br>
-
-# The Secret to Success
-### - The Secret to Success with MVPs [Anthony Mashford](events-speakers.md#anthony-mashford)  & [Mohamed Radwan](events-speakers.md#mohamed-radwan) was on 11-07-2023 at 8:00 PM Cairo Time.
-<br>
-
-[⬆ back to top](#news)
-
-<br>
-   
-# Random Casual Online Mentor Meetup
-### - As one of the mentor activities there is a random online meetup the first one was done on 01-07-2023 at 1:00 PM Cairo time. 
-### - The number of attendees is 10 members.
-<br>
-
-[⬆ back to top](#news)
-
-<br>
-
-# Joining New Members
-## Special Members Joining Like:
-### - An Associate Professor of Electrical and Computer Engineering with 20 years of experience at  the University, of Florida, USA.
-### - A Senior Architect with 13 years of experience at Microsoft Ireland.
-### - An AI Researcher in Egypt, Computational linguist, and NLP engineer in Egypt.
-### - A Technical manager with 17 years of experience in Egypt.
-<br>
-
-[⬆ back to top](#news)
-
-<br>
-   
-# Private Youtube Videos
-### - Private YouTube videos will be deleted at the end of September 2023 and they will be limited paid service.
-<br>
-
-[⬆ back to top](#news)
-
-<br>
-
-# Group Therapy #1
-### - It was on 21-06-2023 at 9:00 PM Cairo time and the next one will be in December.
-### - The number of attendees was more than 30. 
-### - Discuss 5 work challenges for mentor members.
-### - Discuss performance improvement topics.
-<br>
-
-[⬆ back to top](#news)
-
-<br>
-   
-# Communication Skills Session Part (2)
-### - It was on 22-06-2023 at 9:00 PM Cairo time.
-### - The number of online attendees was more than 350. 
-### - Presenters:
-### - Mohamed Elrais: Technical Skills.
-https://www.linkedin.com/in/mohamedelrais/
-### - Mostafa Ahmed: Email Etiquette.
-https://www.linkedin.com/in/mostafa-ahmed-1b588862/
-### - Mahmoud Shahin: Professional Communication.
-https://www.linkedin.com/in/mhshahin/
-### - You Can find small Snapshots from the session at the Following Link: 
-https://www.youtube.com/watch?v=LNmBb1Yrdko
-<br><br>
-
-[⬆ back to top](#news)
-
-<br>
-
-# Post Mortem After Communication Skills Session Part 2
-### - After the Communication Skills Session there was a post-mortem to discuss the session to extract the lesson learned and avoid repetition problems in the following sessions.
-<br>
-
-[⬆ back to top](#news)
-
-<br>
-
-# DevOps Sessions Securely Deploying Apps with Azure AD and Terraform
-### Presenter:
-### - AbdElHalim Zaki 
-https://www.linkedin.com/in/abdelhalimzaki/
-### - You Can find the session at the Following Link: 
-https://www.youtube.com/watch?v=s88vCcoEI5Y
-<br><br>
-
-[⬆ back to top](#news)
-
-<br>
-   
-# Mentor Private one - one Session Details
-### - The First Ordinary Session will be 30 min with a paid fee of 500 EGP and the reservation is at least a month earlier.
-### - The First urgent session will be 30 min with a paid fee of 2000 EGP and the reservation is at least a week earlier.
-### - The price of the second private session is variable and depends on many factors.
-### - The best way to book private sessions is to book sessions on an annual basis, with a rate of 3 sessions to a maximum of 6 sessions per year, according to the person's experience, and this will be an advantage for him.
-<br>
-
-[⬆ back to top](#news)
-
-<br>
-
-# Cloud Migration Project
-## Real project
-### - It was a paid Cloud Migration Real project for mentor members. 
-## Training project
-### - It will be a Cloud Migration training project for mentor members. 
-<br>
-
-[⬆ back to top](#news)
-
-<br>
-   
-# Induction and Onboarding Session for The Mentor Program
-### - It was on 05-06-2023 at 8:00 PM Cairo time.
-### - This is the meeting of the induction and onboarding session for the new members of the Mentor program.
-<br>
-
-[⬆ back to top](#news)
-
-<br>
-
-# Gathering
-## In-Person Gathering:
-### - Japan/Tokyo Nov 2022.
-### - Egypt/Cairo Feb 2023. 
-### - USA/Seattle April 2023.
-
-## Ladies Gathering 
-### - Egypt/Cairo Tower on 11-06-2023.
-### - Egypt/Aisha Fahmy Palace 11-06-2023.
-### - Egypt/Mamluk Desert on 27-05-2023.
-### - Egypt/Nile City on 08-07-2023.
-
-## Virtual Gathering on 18-03-2023 from 12:00 PM to 07:00 PM Cairo time
-<br>
-
-[⬆ back to top](#news)
-
-<br>
-   
-# Public Google form for questions
-### Mentor members created a form that anyone can ask a question and one of them will answer it.
-### If someone sends a message to eng. Radwan didn't respond to it, he apologizes, but you can contact him using the form at the following Link: 
-https://forms.gle/kkMBZGD1hWWPWq349
-<br><br>
-
-[⬆ back to top](#news)
-
-<br>
-
-# Communication Skills Session Part (1)
-### - It was on 15-03-2023 at 8:00 PM Cairo time.
-### - The number of online attendees was more than 300. 
-### - It was about Effective Communication Skills in a multinational  organization.
+## Communication Skills Session Part (2)
+- **Date and Time:** Jun 22, 2023, at 7:00 PM UK Time.
+- **Online Attendance:** Over 350 participants.
+  
 ### Presenters:
-### - AbdElHalim Zaki 
-https://www.linkedin.com/in/abdelhalimzaki/
-### - Neveen Abd-Elazeem
-https://www.linkedin.com/in/eng-neveen-abd-elazeem-b57041217/
-### - Rehab Ragab
-https://www.linkedin.com/in/rehab-ragab-04a22b19a/
-### - Mohamed Radwan
-https://www.linkedin.com/in/mohamedahmedradwan/
-### - You Can find small Snapshots from the session at the Following Link: 
-https://www.youtube.com/watch?v=Ll6j1_9DuWc
-<br><br>
+  - [Mohamed Elrais](https://www.linkedin.com/in/mohamedelrais/)
+  - [Mostafa Ahmed](https://www.linkedin.com/in/mostafa-ahmed-1b588862/)
+  - [Mahmoud Shahin](https://www.linkedin.com/in/mhshahin/)
 
-[⬆ back to top](#news)
+- **Video Link:**  You Can find small Snapshots from the session at the Following Link: [Communication Skills Session Part (2)](https://www.youtube.com/watch?v=LNmBb1Yrdko)
 
-<br>
+## Post Mortem After Communication Skills Session Part 2
+- After the Communication Skills Session there was a post-mortem to discuss the session to extract the lesson learned and avoid repetition problems in the following sessions.
 
-# Members Celebration
-### Mentor members are celebrated for their accomplishments as follows:
-### - Salary Raise. 
-### - Azure Fundamentals Exam Certification.
-### - DevOps Engineer Expert.
-### - Joining Big Company. 
-### - Joining New Members.
-<br>
+## DevOps Sessions Securely Deploying Apps with Azure AD and Terraform
+### Presenter:
+  - [AbdElHalim Zaki](https://www.linkedin.com/in/abdelhalimzaki/)
+- **Video Link:** You Can find the session at the Following Link: [DevOps Sessions Securely Deploying Apps with Azure AD and Terraform](https://www.youtube.com/watch?v=s88vCcoEI5Y)
+  
+## Mentor Private one - one Session Details
+- The First Ordinary Session will be 30 min with a paid fee of 500 EGP and the reservation is at least a month earlier.
+- The First urgent session will be 30 min with a paid fee of 2000 EGP and the reservation is at least a week earlier.
+- The price of the second private session is variable and depends on many factors.
+- The best way to book private sessions is to book sessions on an annual basis, with a rate of 3 sessions to a maximum of 6 sessions per year, according to the person's experience, and this will be an advantage for him.
+  
+## Cloud Migration Project
+- **Real project**
+  - It was a paid Cloud Migration Real project for mentor members. 
+- **Training project**
+  - It will be a Cloud Migration training project for mentor members. 
+ 
+## Induction and Onboarding Session for The Mentor Program
+- **Date and Time:** Jun 05, 2023, at 6:00 PM UK Time.
+- This is the meeting of the induction and onboarding session for the new members of the Mentor program.
+
+## Gathering
+- **In-Person Gathering:**
+  - Japan/Tokyo Nov 2022.
+  - Egypt/Cairo Feb 2023. 
+  - USA/Seattle April 2023.
+
+- **Ladies Gathering:** 
+  - Egypt/Cairo Tower on 11-06-2023.
+  - Egypt/Aisha Fahmy Palace 11-06-2023.
+  - Egypt/Mamluk Desert on 27-05-2023.
+  - Egypt/Nile City on 08-07-2023.
+
+- **Virtual Gathering**
+  - **Date and Time:** Mar 03, 2023, at 10:00 AM UK Time.
+   
+## Public Google form for questions
+- Mentor members created a form that anyone can ask a question and one of them will answer it.
+
+## Communication Skills Session Part (1)
+- **Date and Time:** Mar 15, 2023, at 06:00 PM UK Time.
+- **Online Attendance:** Over 300 participants.
+- **Online Attendance:** Over 300 participants.
+- **Topic:** Effective Communication Skills in a multinational  organization.
+### Presenters:
+    - [AbdElHalim Zaki](https://www.linkedin.com/in/abdelhalimzaki/)
+    - [Neveen Abd-Elazeem](https://www.linkedin.com/in/eng-neveen-abd-elazeem-b57041217/)
+    - [Rehab Ragab](https://www.linkedin.com/in/rehab-ragab-04a22b19a/)
+    - [Mohamed Radwan](https://www.linkedin.com/in/mohamedahmedradwan/)
+- **Video Link:** You Can find small Snapshots from the session at the Following Link: [Communication Skills Session Part (1)](https://www.youtube.com/watch?v=Ll6j1_9DuWc)
+  
+## Members Celebration
+- Mentor members are celebrated for their accomplishments as follows:
+  - Salary Raise. 
+  - Azure Fundamentals Exam Certification.
+  - DevOps Engineer Expert.
+  - Joining Big Company. 
+  - Joining New Members.
 
 [⬆ back to top](#news)
