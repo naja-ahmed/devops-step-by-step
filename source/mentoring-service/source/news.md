@@ -221,11 +221,11 @@
 
 <br>
    
-# Mentor Meetup #1
-### - This is the first mentor meetup.
-### - It will be on 18-07-2023 at 8:00 PM Cairo Time and the next one will be in October.
-### - You Can find the meeting agenda at the Following Link:
-- [Agenda](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mentoring-service/source/agenda.md#mentor-meetup) 
+## Mentor Meetup #1
+- **Date and Time:** Jul 18, 2023, at 6:00 PM UK Time.
+- This is the first mentor meetup.
+- The next one will be in October.
+- You Can find the meeting agenda at the Following Link: [Agenda](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mentoring-service/source/agenda.md#mentor-meetup) 
 <br>
 
 [⬆ back to top](#news)
