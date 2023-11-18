@@ -18,7 +18,7 @@
     - [NDA Rights](#nda-rights)
     - [The New Platform](#the-new-platform)
     - [New Member Onboarding](#new-member-onboarding)
-- [All News Before Meetup (#1) July 2023](#the-first-meetup-news) 
+- [All News Before Meetup (#1) July 2023](#all-news-before-meetup-1-jul-2023)
     - [Annual Activities](#annual-activities)
     - [Mentor Meetup #1](#mentor-meetup-1)
     - [Qaderoon initiative](#qaderoon-initiative)
@@ -133,7 +133,7 @@
 
 **[⬆ back to top](#news)**
 
-# All News Before Meetup #1 July 2023
+# All News Before Meetup #1 Jul 2023
 ## Annual Activities
 - There are 24 activities/year.
 -  There are 2 activities/month.
