@@ -269,7 +269,5 @@
     - Joining Big Company. 
     - Joining New Members.
 
-**[⬆ back to First Meetup News](#all-news-before-meetup-1-july-2023)**
-<br>
 **[⬆ back to top](#news)**
 
