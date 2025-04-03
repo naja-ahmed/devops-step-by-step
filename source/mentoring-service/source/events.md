@@ -1,4 +1,5 @@
 - [Public Technical Sessions](#public-technical-sessions)
+- [Guest Speaker](#guest-speaker)
 
   ## Public Technical Sessions
     - Maximizing Productivity with Azure DevOps and Logic Apps
@@ -31,3 +32,5 @@
     - **Presenters:**
       - [Rehab Ragab](https://www.linkedin.com/in/rehab-ragab-04a22b19a/)
       - [Mohamed Radwan](https://www.linkedin.com/in/mohamedahmedradwan/)
+
+## Guest Speaker
