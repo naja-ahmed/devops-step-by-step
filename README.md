@@ -64,7 +64,9 @@
   - [📅 Events Schedule](/source/mentoring-service/source/events-schedule.md "Events Schedule")
 
   - [👪 Community Gathering](/source/mentoring-service/source/community-gathering.md "Community Gathering")
-  
+
+  - [📺 Events](/source/mentoring-service/source/events.md "Events")
+    
   - [💭 Mindmap for Mentorship Program Services](source/mentoring-service/source/mind-map.md)
 
 - [📰 News](/source/news/ "News")
